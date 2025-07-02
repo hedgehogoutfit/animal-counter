@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.idea/
+venv/
+.env
+task
+test_sample.py
+beasts.csv
